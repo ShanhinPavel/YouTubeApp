@@ -12,4 +12,5 @@ window.onload = () => {
   document.body.appendChild(createSearchField());
   document.querySelector('#button')
     .addEventListener('click', clickSubmit);
+    slider();
 };
