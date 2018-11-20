@@ -1,0 +1,2 @@
+google:
+key = 'AIzaSyBKaGt0vZHe5jkw40gPagqqzsdiQWtQ7W4'
