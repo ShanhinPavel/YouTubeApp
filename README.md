@@ -1,6 +1,7 @@
 This web application views an information about youtube clips by user request. It uses YouTube REST API.
 
 Link to github pages: https://shanhinpavel.github.io/
+
 Screenshots: https://imgur.com/govWkj2
 
 How to use the application:
