@@ -6,7 +6,7 @@ Screenshots: https://imgur.com/govWkj2
 
 How to use the application:
 
-1. Write your request in search field and click "enter".
+1.Write your request in search field and click "enter".
 
 2.The app processes the request to YouTube REST API and displays loaded clips in form of horisontal list.
 
@@ -20,4 +20,4 @@ Features:
 
 3.As listing the pages, the app loads new data by chunks ( 15 clips per chunk).
 
-4. If you are changing size of the page changes amount of clips on the page.
+4.If you are changing size of the page changes amount of clips on the page.
